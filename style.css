@@ -1,0 +1,89 @@
+.headerpic {
+    background-image: url("images/kassrun.png");
+    background-size: cover !important;
+    height: 650px;
+
+}
+
+.run {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+    color: #411d42;
+    margin-top: 0px;
+    padding-top: 5%;
+    line-height:30%;
+    cursor: pointer;
+
+
+}
+.run2 {
+    color:#c3557c;
+}
+.strength {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+    color: #c3557c;
+    margin-top: 0px;
+    padding-top: 5%;
+    line-height:30%;
+}
+.endurance {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+    color: #ff5f22;
+    margin-top: 0px;
+    padding-top: 5%;
+    line-height:30%;
+}
+.health {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+    color: #ffc663;
+    margin-top: 0px;
+    padding-top: 5%;
+    line-height:30%;
+}
+
+.pictures li {
+    display: inline-block;
+    width: 15%;
+    margin-left: 35px;
+
+}
+
+.pictures a {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.pictures img {
+    border-radius: 50%;
+    border: 5px solid #411d42;
+    width: 150px;
+    height: 150px;
+}
+.picture2 {
+    width:250;
+    height:250;
+}
+
+.buttons {
+    display: inline-block;
+    width:100%;
+    text-align: center;
+}
+
+.buttons button {
+    font-family: 'Oxygen', sans-serif;
+    color: #ffc663;
+    font-size: 25px;
+    padding-right: 5%;
+    text-align: center;
+}
+
+p {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 30px;
+    color: #c3557c;
+    margin-left: 40px;
+}
